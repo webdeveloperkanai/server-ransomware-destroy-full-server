@@ -1,0 +1,1 @@
+# server-ransomware-destroy-full-server
